@@ -1,3 +1,6 @@
+## Invoice System 
+- a simple invoice system created in Laravel Framework.
+
 ## Installation
 1. git clone https://github.com/angelothegreat13/invoice_system.git
 2. composer update
